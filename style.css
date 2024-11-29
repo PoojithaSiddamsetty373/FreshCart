@@ -1,0 +1,261 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+    }
+    
+    body{
+        margin: 0%;
+       
+    }
+    
+    header{
+    width: 100%;
+    height:450px;
+    color:green;
+
+    }
+    
+    .freshcart h1{
+        width:50%;
+      padding: 0px 120px;
+      
+      color: black;
+      float: left;
+    }
+    nav{
+        width: 50%;
+        height:100px;
+        
+      float: left;
+        padding: 15px;
+        text-align: end;
+        display: flex;
+        justify-content: end;
+        align-items: end;
+    }
+    
+    nav ul li {
+   display: inline-block;
+    
+    color: white;
+    color: rgb(5, 67, 5);
+   display: flex;
+   justify-content: end;
+   align-items: end;
+  float: left;
+   text-align: end;
+    padding: 15px 30px;
+  
+    } 
+    
+     button {
+        width: 100px;
+         height: 40px;
+         
+     border-radius:10px;
+          background-color: rgb(38, 41, 38);
+          color: white;
+        
+         
+    } 
+ 
+    
+    
+
+
+    .content h2{
+        font-size:35px;
+       font-weight:800; 
+       color:black;
+       
+       }
+       
+    .content p{
+        font-size: 25px; 
+        font-weight:500; 
+      color: black;
+       }
+    .content{
+        text-align: center;
+        padding: 30px 70px;
+         width: 100%;
+        height: 80%;
+        color: black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        display: table;
+    }      
+    .flexcenter{
+         display: flex; 
+         justify-content:center;
+          align-items: center;
+           
+        }
+        .main{
+            width: 100%;
+            height: auto;
+           
+           text-align: center;
+           padding: 50px 100px;
+           font-weight: 100;
+        }
+        .figure6{
+            width:33%;
+            background-color: lavender;
+            float: left;
+            padding:35px;
+        
+            border-radius: 1;
+        }
+        figure{
+            margin: 0px;
+           
+        }
+        figure img{
+           width: 100%;
+          
+        }
+        .pages{
+            width: 100%;
+            height: auto;
+           
+           text-align: center;
+           padding: 50px 100px;
+           font-weight: 100;
+        }
+        .pages h1{
+            font-size: 35px;
+        }
+        .pages p{
+            font-size: 20px;
+           
+        }
+        .home{
+            width:33%;
+            
+            float: left;
+            padding:35px;
+         
+            border-radius: 1;
+        }
+        figure{
+            margin: 0px;
+           
+        }
+        figure img{
+           width: 100%;
+          
+        }
+        figcaption{
+            padding: 20px;
+           color: black;
+           font-size: 35px;
+        }
+   
+        .features{
+            width: 100%;
+            height: auto;
+           text-align: center;
+           padding: 50px 100px;
+           font-weight: 100;
+        }
+        .features h1{
+            font-size: 25px;
+        }
+        .features p{
+            font-size: 15px;
+           
+        }
+        .feature{
+            width:50%;
+            height:580px;
+             float: left;
+            padding:25px;
+         background-color: lavender;
+            border-radius: 3;
+            margin-right: 20px;
+            margin-bottom: 20px;
+        }
+        figure{
+            margin: 0px;
+           
+        }
+        figure img{
+           width: 100%;
+        }
+        .feature2{
+            width:45%;
+            height: 570px;
+           float: left;
+            padding:25px;
+         background-color: lavender;
+            border-radius: 3;
+            margin-left: 20px;
+        }
+        
+        .feature3{
+            width:65%;
+            height: 600px;
+           float: left;
+            padding:25px;
+         background-color: lavender;
+            border-radius:3;
+            margin-right: 20px;
+            margin-top: 20px;
+        }
+        .feature4{
+            width:30%;
+            height:600px;
+           float: left;
+            padding:25px;
+         background-color: lavender;
+            border-radius: 3;
+            margin-left: 20px;
+            margin-top: 20px;
+        }
+        .feature5{
+            width:100%;
+            height:600px;
+           float: left;
+            padding:25px;
+         background-color: lavender;
+            border-radius: 3;
+            margin-top: 20px;
+        }
+        .products{
+            width: 100%;
+            height: auto;
+           
+           text-align: center;
+           padding: 50px 100px;
+           font-weight: 100;
+        }
+        .products h1{
+            font-size: 35px;
+        }
+        .products p{
+            font-size: 20px;
+           
+        }
+        .product{
+            width:30%;
+            
+            float: left;
+            padding:25px;
+         background-color: lavender;
+            border-radius: 1;
+        }
+        figure{
+            margin: 0px;
+           
+        }
+        figure img{
+           width: 100%;
+          
+        }
+        figcaption{
+           
+           color: black;
+           font-size: 35px;
+        }
